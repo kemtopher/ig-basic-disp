@@ -1,0 +1,25 @@
+{
+  "name": "ig-basic-disp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "16.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kemtopher/ig-basic-disp.git"
+  },
+  "author": "Christopher Kemeza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kemtopher/ig-basic-disp/issues"
+  },
+  "homepage": "https://github.com/kemtopher/ig-basic-disp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
